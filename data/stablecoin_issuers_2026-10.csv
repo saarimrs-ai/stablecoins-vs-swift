@@ -1,0 +1,13 @@
+symbol,name,peg_mechanism,supply_usd_m_oct2026,supply_usd_m_prev_month
+USDT,Tether,fiat-backed,183917,183235
+USDC,USD Coin (Circle),fiat-backed,72721,74331
+USDS,Sky Dollar,crypto-backed,7064,6467
+USDe,Ethena USDe,crypto-backed,4768,4593
+DAI,Dai,crypto-backed,4723,4790
+USD1,World Liberty Financial USD,fiat-backed,4150,4332
+USDG,Global Dollar,fiat-backed,3010,3239
+PYUSD,PayPal USD,fiat-backed,2872,2762
+RLUSD,Ripple USD,fiat-backed,2415,2423
+BUIDL,BlackRock USD,fiat-backed,2155,2734
+ALL_OTHERS,407 other stablecoins,mixed,21250,
+TOTAL,422 stablecoins,,308574,

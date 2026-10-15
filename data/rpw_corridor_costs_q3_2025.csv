@@ -1,0 +1,36 @@
+corridor,from,to,n_offers,min_cost_pct,median_cost_pct,avg_total_cost_pct_usd200,max_cost_pct,quarter,source
+AE/PK,UAE,Pakistan,17,-0.49,0.63,2.17,11.9,Q3 2025,World Bank RPW corridor page
+SA/PK,Saudi Arabia,Pakistan,12,1.44,3.06,5.02,12.04,Q3 2025,World Bank RPW corridor page
+GB/PK,UK,Pakistan,29,-1.44,2.51,2.39,9.28,Q3 2025,World Bank RPW corridor page
+US/PK,USA,Pakistan,25,0.45,2.63,3.81,13.67,Q3 2025,World Bank RPW corridor page
+AE/IN,UAE,India,24,0.77,3.05,3.72,21.06,Q3 2025,World Bank RPW corridor page
+SA/IN,Saudi Arabia,India,12,3.14,3.57,5.59,11.77,Q3 2025,World Bank RPW corridor page
+US/IN,USA,India,46,-0.53,2.76,3.68,17.5,Q3 2025,World Bank RPW corridor page
+GB/IN,UK,India,28,0.15,2.11,1.91,3.31,Q3 2025,World Bank RPW corridor page
+US/MX,USA,Mexico,46,-2.44,4.6,4.54,17.5,Q3 2025,World Bank RPW corridor page
+US/PH,USA,Philippines,58,0.58,3.99,4.52,17.5,Q3 2025,World Bank RPW corridor page
+AE/PH,UAE,Philippines,21,0.81,3.43,3.04,5.21,Q3 2025,World Bank RPW corridor page
+SA/PH,Saudi Arabia,Philippines,10,2.56,2.76,3.82,10.8,Q3 2025,World Bank RPW corridor page
+SA/EG,Saudi Arabia,Egypt,12,2.63,3.44,5.15,10.87,Q3 2025,World Bank RPW corridor page
+AE/EG,UAE,Egypt,16,0.5,2.97,3.7,9.42,Q3 2025,World Bank RPW corridor page
+AE/BD,UAE,Bangladesh,9,5.98,7.15,7.72,10.89,Q3 2025,World Bank RPW corridor page
+SA/BD,Saudi Arabia,Bangladesh,9,7.15,8.29,10.2,15.91,Q3 2025,World Bank RPW corridor page
+GB/NG,UK,Nigeria,31,-0.12,1.01,1.96,6.34,Q3 2025,World Bank RPW corridor page
+US/NG,USA,Nigeria,33,-0.49,2.47,2.72,9.87,Q3 2025,World Bank RPW corridor page
+ZA/ZW,South Africa,Zimbabwe,40,5.15,10.28,12.49,33.89,Q3 2025,World Bank RPW corridor page
+ZA/MZ,South Africa,Mozambique,30,2.72,5.79,10.29,35.75,Q3 2025,World Bank RPW corridor page
+US/GT,USA,Guatemala,30,-2.12,4.0,4.19,11.1,Q3 2025,World Bank RPW corridor page
+FR/MA,France,Morocco,39,1.46,3.6,7.39,45.07,Q3 2025,World Bank RPW corridor page
+DE/TR,Germany,Türkiye,30,1.74,3.08,4.01,7.49,Q3 2025,World Bank RPW corridor page
+JP/PH,Japan,Philippines,45,2.06,5.41,12.88,65.23,Q3 2025,World Bank RPW corridor page
+TZ/KE,Tanzania,Kenya,12,0.72,83.74,59.99,88.35,Q3 2025,World Bank RPW corridor page
+ZA/MW,South Africa,Malawi,23,-3.0,32.94,31.48,87.71,Q3 2025,World Bank RPW corridor page
+US/CN,USA,China,22,1.85,3.56,6.62,22.5,Q3 2025,World Bank RPW corridor page
+AE/NP,UAE,Nepal,17,0.94,2.98,3.41,6.1,Q3 2025,World Bank RPW corridor page
+SA/NP,Saudi Arabia,Nepal,11,3.12,3.68,5.02,12.06,Q3 2025,World Bank RPW corridor page
+AE/LK,UAE,Sri Lanka,18,0.25,2.61,2.7,5.85,Q3 2025,World Bank RPW corridor page
+US/VN,USA,Vietnam,34,1.61,5.97,5.27,17.5,Q3 2025,World Bank RPW corridor page
+KR/VN,South Korea,Vietnam,26,2.01,4.43,5.15,9.94,Q3 2025,World Bank RPW corridor page
+SG/ID,Singapore,Indonesia,31,0.56,2.62,3.23,10.41,Q3 2025,World Bank RPW corridor page
+AU/CN,Australia,China,18,0.11,3.47,3.31,9.98,Q3 2025,World Bank RPW corridor page
+AU/FJ,Australia,Fiji,26,-3.17,3.69,4.35,20.93,Q3 2025,World Bank RPW corridor page

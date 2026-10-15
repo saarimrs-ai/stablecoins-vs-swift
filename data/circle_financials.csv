@@ -1,0 +1,4 @@
+period,total_revenue_reserve_income_usd_m,reserve_income_usd_m,other_revenue_usd_m,distribution_transaction_costs_usd_m,rldc_usd_m,adj_ebitda_usd_m,net_income_usd_m,usdc_end_usd_bn,source
+FY2025,2747,,,1662,1083,582,-70,75.3,Circle FY2025 results (SEC EX-99.1)
+Q4 2025,770,,,461,309,167,133,75.3,Circle FY2025 results (SEC EX-99.1)
+Q2 2026,701,668,34,412,289,143,48,73.3,Circle Q2 2026 results (RLDC computed = revenue - distribution)
